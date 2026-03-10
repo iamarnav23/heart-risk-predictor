@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://heart-disease-api.onrender.com/predict"
+API_URL = "https://heart-risk-predictor-7b16.onrender.com/predict"
 
 st.title("Heart Disease Risk Predictor")
 st.markdown("Enter patient health details below:")
